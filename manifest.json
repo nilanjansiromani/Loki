@@ -1,7 +1,7 @@
 {
-  "name": "Loki Proxy Confiig for chrome",
+  "name": "Loki",
   "version": "0.4",
-  "description": "Change the way ypur chrome connects to the internet, bypass system level enforced proxy settings",
+  "description": "Change the way your chrome connects to the internet, bypass system level enforced proxy settings",
   "default_locale": "en",
   "browser_action": {
     "default_icon": "icon16.png",
